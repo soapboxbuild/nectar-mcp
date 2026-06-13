@@ -2,7 +2,7 @@
   "mcpServers": {
     "nectar": {
       "type": "http",
-      "url": "https://nectar-mcp-production.up.railway.app/mcp",
+      "url": "https://nectar-mcp.mcp.soapbox.build/mcp",
       "headers": { "Authorization": "Bearer ${NECTAR_API_KEY}" }
     }
   }
