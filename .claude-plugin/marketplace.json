@@ -1,0 +1,10 @@
+{
+  "name": "nectar-plugins",
+  "owner": { "name": "Soapbox", "url": "https://soapbox.build" },
+  "plugins": [{
+    "name": "nectar-climate",
+    "source": { "source": "github", "repo": "soapboxbuild/nectar-mcp" },
+    "description": "Utility bill parsing, meter data, and automated ENERGY STAR Portfolio Manager export.",
+    "version": "0.1.0"
+  }]
+}

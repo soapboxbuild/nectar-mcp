@@ -1,0 +1,8 @@
+{
+  "name": "nectar-climate",
+  "version": "0.1.0",
+  "description": "Nectar Climate — utility bill parsing, meter data, and automated ENERGY STAR Portfolio Manager export.",
+  "author": { "name": "Nectar Climate", "url": "https://nectarclimate.com" },
+  "homepage": "https://github.com/soapboxbuild/nectar-mcp",
+  "license": "Apache-2.0"
+}

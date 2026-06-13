@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "nectar": {
+      "type": "http",
+      "url": "https://nectar-mcp-production.up.railway.app/mcp",
+      "headers": { "Authorization": "Bearer ${NECTAR_API_KEY}" }
+    }
+  }
+}
